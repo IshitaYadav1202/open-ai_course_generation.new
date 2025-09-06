@@ -19,10 +19,10 @@ import {
 export const Profile: React.FC = () => {
   const [isEditing, setIsEditing] = useState(false);
   const [profileData, setProfileData] = useState({
-    name: 'Alex Johnson',
-    email: 'alex.johnson@edu.example.com',
+    name: 'Alisha',
+    email: 'alisha@edu.example.com',
     role: 'Educator',
-    institution: 'Springfield High School',
+    institution: 'Spring High School',
     subject: 'Mathematics',
     bio: 'Passionate educator with 8+ years of experience in making math engaging and accessible to all students.'
   });
