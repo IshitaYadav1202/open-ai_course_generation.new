@@ -41,7 +41,7 @@ export const Leaderboard: React.FC = () => {
   const topUsers: LeaderboardUser[] = [
     {
       id: '1',
-      name: 'Emma Johnson',
+      name: 'rose',
       avatar: 'EJ',
       level: 18,
       xp: 3450,
@@ -54,7 +54,7 @@ export const Leaderboard: React.FC = () => {
     },
     {
       id: '2',
-      name: 'Michael Chen',
+      name: 'mary',
       avatar: 'MC',
       level: 16,
       xp: 2890,
@@ -67,7 +67,7 @@ export const Leaderboard: React.FC = () => {
     },
     {
       id: '3',
-      name: 'Sarah Wilson',
+      name: 'Sara',
       avatar: 'SW',
       level: 15,
       xp: 2650,
@@ -80,7 +80,7 @@ export const Leaderboard: React.FC = () => {
     },
     {
       id: '4',
-      name: 'Alex Johnson',
+      name: 'Alisha',
       avatar: 'AJ',
       level: 15,
       xp: 2450,
@@ -93,7 +93,7 @@ export const Leaderboard: React.FC = () => {
     },
     {
       id: '5',
-      name: 'David Brown',
+      name: 'David ',
       avatar: 'DB',
       level: 14,
       xp: 2320,
